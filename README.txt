@@ -1,5 +1,5 @@
 *** This project is created based on CMU graphics. You could navigate here to download for free: 
-https://academy.cs.cmu.edu/desktop. This project is a collaborated project created by Andy Liu and 
+https://academy.cs.cmu.edu/desktop. This project is a COLLABORATED project created by Andy Liu and 
 Dylan Landucci (https://github.com/DylanL526).
 /Readme
 Team: The Winners
